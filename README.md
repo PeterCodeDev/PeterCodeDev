@@ -35,6 +35,9 @@ Soy un apasionado de la tecnología con una base sólida en sistemas y redes, ac
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-basic&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src ="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </p>
 
 #### 🔌 Entornos y Bases de Datos
@@ -59,6 +62,21 @@ Soy un apasionado de la tecnología con una base sólida en sistemas y redes, ac
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   
+</p>
+
+#### 🧠 Inteligencia Artificial y Multi-Agentes
+<p align="left">
+  <img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+#### 🔧 Herramientas de Desarrollo y APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
