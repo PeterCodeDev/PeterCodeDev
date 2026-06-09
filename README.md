@@ -50,6 +50,7 @@ Soy un apasionado de la tecnología con una base sólida en sistemas y redes, ac
   <img src="https://img.shields.io/badge/HeidiSQL-FFD700?style=for-the-badge&logo=databricks&logoColor=black" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 #### 🔌 Sistemas y Redes (SMR)
